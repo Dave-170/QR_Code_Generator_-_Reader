@@ -27,9 +27,17 @@ Features
     Read QR Code: Decode QR codes from image files.
     Colour Customization: Choose custom fill and background colours for QR codes.
 
+Screenshots
+
+![image](https://github.com/Dave-170/QR_Code_Generator_And_Reader/assets/74973997/97becd49-0d1e-4269-8a58-e68cffdd0206)
+![image](https://github.com/Dave-170/QR_Code_Generator_And_Reader/assets/74973997/f646636c-1942-4578-a98e-b50814158cfc)
+![image](https://github.com/Dave-170/QR_Code_Generator_And_Reader/assets/74973997/fd26c1e0-8130-46a0-a1ff-91743c3b4ca1)
+![image](https://github.com/Dave-170/QR_Code_Generator_And_Reader/assets/74973997/391b1b62-5c39-4b99-afed-b624e33aef6b)
+![image](https://github.com/Dave-170/QR_Code_Generator_And_Reader/assets/74973997/ac436f5d-d81d-412b-988b-b04507fd00a5)
+
+    
 Note
-
-Ensure that all dependencies are installed.
-some QR codes can not be read based on the colours used so be careful using some colours. 
-
-Feel free to customize and enhance the code according to your preferences and project requirements.
+    
+    Ensure that all dependencies are installed.
+    some QR codes can not be read based on the colours used so be careful using some colours. 
+    Feel free to customize and enhance the code according to your preferences and project requirements.
